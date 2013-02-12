@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">03_SpeechRecognizerTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btnName">toggle</string>
+    <string name="label_Status">Recognizer Status : </string>
+    <string name="label_RmsStatus">Rms status (dB) :</string>
+
+</resources>
